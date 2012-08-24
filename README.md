@@ -1,4 +1,7 @@
 myvim
 =====
 
-Vim config files
+Nothing interesting here.
+By using the way of pathogen
+https://github.com/tpope/vim-pathogen
+keeping my all vim files in peace.
