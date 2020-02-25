@@ -1,3 +1,13 @@
+
+update
+======
+
+I am currently using Spacevim. Please check and see if it is fits to your needs.
+This repo is in archive mode now.
+
+https://spacevim.org/
+
+
 myvim
 =====
 
